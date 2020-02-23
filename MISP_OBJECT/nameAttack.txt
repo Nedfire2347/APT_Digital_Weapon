@@ -1,0 +1,151 @@
+Aggah
+APT-C-01
+APT-C-15
+APT-C-23
+APT-C-27
+APT-C-36
+APT-C-37
+APT1
+APT10
+APT15
+APT16
+APT17
+APT19
+APT23
+APT27
+APT28
+APT29
+APT3
+APT33
+APT37
+APT40
+APT41
+Attor
+Bisonal
+BITTER
+Blackgear
+BlackOasis
+BlackTech
+BlueMushroom
+Bookworm
+Buhtrap
+C-Major
+Calypso
+CARROTBAT
+Chafer
+Charming Kitten
+ChessMaster
+ChinaZ
+Cold River
+Confucius
+CopyKittens
+CRASHOVERRIDE
+Dark Caracal
+Dark Tequila
+Darkhotel
+DarkHydrus
+DEADLYKISS
+Domestic Kitten
+Donot
+DustSquad
+El Machete
+Energetic Bear
+Equation Group
+EvilGnome
+FIN6
+FIN7
+Gamaredon Group
+GlassRAT
+Golden Chickens
+Gorgon
+Gravityrat
+GreyEnergy
+HackingTeam
+Hades
+Hellsing
+HEXANE
+HexCode
+Higaisa
+Honeybee
+IceFog
+Inception Framework
+INDRIK SPIDER
+Infy group
+Iron Group
+Kimsuky
+KONNI
+Kulak
+Lazarus Group
+Leafminer
+leetMX
+Longhorn
+LUNAR SPIDER
+MageCart
+MartyMcFly
+Matryoshka
+Metamorfo
+MM CORE
+Mofang
+Molerats
+MoneyTaker
+MuddyWater
+Mustang Panda
+NotPetya
+OceanLotus
+OilRig
+Operation Dustysky
+Operation Ghoul
+Orangeworm
+Outlaw
+Pacha Group
+PatchWork
+PINCHY SPIDER
+PKPLUG
+PowerPool
+PowerSniff
+projectsauron
+PROMETHIUM
+PUSIKURAC
+RANCOR
+Red Signature
+APT34
+Cobalt Group
+Gallmaker
+KingSqlZ
+NARWHAL SPIDER
+RedAlpha
+Roma225
+Rover
+Ryuk
+Sandworm
+Scarlet Mimic
+SEA
+ShadowHammer
+Shamoon 3
+Sidewinder
+Silence
+Slingshot
+Snake Wine
+SocketPlayer
+Sowbug
+Suckfly
+SWEED
+TA505
+TA555
+Taidoor
+TajMahal
+TH-163
+Thrip
+Tick
+TOOHASH
+Tortoiseshell
+TRITON
+TurkHackTeam
+Turla
+Unit 8200
+Urpage
+White Company
+WindShift
+WIRTE
+xHunt
+ZooPark
