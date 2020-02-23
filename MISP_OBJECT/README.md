@@ -1,3 +1,12 @@
+Comparing with MISP databased
+
+grep  -f ./nameAttack.txt -r -i  ../../misp-galaxy/Research/apt_list > taxonomyAttackMisp.txt 
+
+cat nameAttack.txt | grep -f ./galaxyAttackMisp.txt -v
+diff --side-by-side nameAttack.txt galaxyAttackMisp.txt --color
+
+#No matching difference : Project Abondonned
+
 **Alias**  
 APT_Digital_Weapon
  
