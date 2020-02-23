@@ -1,4 +1,4 @@
-Comparing with MISP databased
+Comparing with MISP database
 
 grep  -f ./nameAttack.txt -r -i  ../../misp-galaxy/Research/apt_list > taxonomyAttackMisp.txt 
 
